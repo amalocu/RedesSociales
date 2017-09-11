@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Redes Sociales</string>
+    <string name="main_textview_user">\@usuario</string>
+    <string name="main_textview_like"># Me gusta</string>
+    <string name="main_textview_follow"># Siguiendo</string>
+    <string name="main_textview_follower"># Seguidores</string>
+    <string name="main_textview_notification">Notificaciones</string>
+    <string name="main_textview_sync">Sincronizar con: </string>
+    <string name="main_button_close">Cerrar Sesión</string>
+    <string name="main_string_despedida">Hasta pronto</string>
+    <string-array name="main_spinner_sync">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+        <item>Linked In</item>
+        <item>Youtube</item>
+    </string-array>
+</resources>
